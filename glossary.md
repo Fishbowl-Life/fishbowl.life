@@ -1,4 +1,18 @@
-WEB APPLICATION GLOSSARRY
+WEB APPLICATION 
+
+Categories
+
+- Definition
+- Coding style
+- Philosophy
+- Engineering Principle
+- Application Models
+- Architecture
+- Design Patterns
+- UX / UI / Accessibility
+- Core Web Technologies
+
+GLOSSARRY
 
 - HTML = Hyper Test Markup Language
 - CSS = Cascading Style Sheets
@@ -48,4 +62,6 @@ WEB APPLICATION GLOSSARRY
 - UI/UX Consistency Model
 - Modularized Data Layer
 
-Tag-Naming Normalization (toTagName)
+- Tag-Naming Normalization (toTagName)
+- Progressive Enhancement
+- Graceful Degradation 
